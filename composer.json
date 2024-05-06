@@ -37,7 +37,6 @@
         "doctrine/dbal": "^2.9|^3.0",
         "evenement/evenement": "^2.0|^3.0",
         "facade/ignition-contracts": "^1.0",
-        "guzzlehttp/psr7": "^1.5",
         "pusher/pusher-php-server": "^6.0|^7.0",
         "react/mysql": "^0.5",
         "react/promise": "^2.8",
