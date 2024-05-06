@@ -30,7 +30,7 @@
     ],
     "require": {
         "php": "8.*",
-        "mrgiant/ratchet": "^0.1",
+        "lumecent/ratchet": "^1.0",
         "clue/block-react": "^1.5",
         "clue/reactphp-sqlite": "^1.0",
         "clue/redis-react": "^2.6",
